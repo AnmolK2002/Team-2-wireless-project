@@ -18,6 +18,7 @@
 # Candidate References
 - Kamran, R., Bhat, M. G., Jha, P., Moothedath, S., Hanawal, M., & Chaporkar, P. (2025). Energy-Aware 6G Network Design: A Survey. arXiv. https://arxiv.org/abs/2509.11289
 - Alhussien, N., & Gulliver, T. A. (2024). Toward AI‑enabled green 6G networks: A resource management perspective. IEEE Access, 12, 132972–132995. https://ieeexplore.ieee.org/document/10679787
+- Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. Working paper. ProQuest. https://www.proquest.com/docview/2236521036
 
 # Ownership Table 
 | Section | Description | Primary Authors | Supporting Authors |
