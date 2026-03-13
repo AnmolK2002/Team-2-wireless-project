@@ -17,7 +17,7 @@
 
 # Candidate References
 - Kamran, R., Bhat, M. G., Jha, P., Moothedath, S., Hanawal, M., & Chaporkar, P. (2025). Energy-Aware 6G Network Design: A Survey. arXiv. https://arxiv.org/abs/2509.11289
-
+- Alhussien, N., & Gulliver, T. A. (2024). Toward AI‑enabled green 6G networks: A resource management perspective. IEEE Access, 12, 132972–132995. https://ieeexplore.ieee.org/document/10679787
 # Ownership Table 
 | Section | Description | Primary Authors | Supporting Authors |
 |--------|-------------|----------------|-------------------|
