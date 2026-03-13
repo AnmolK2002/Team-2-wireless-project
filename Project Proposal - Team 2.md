@@ -18,10 +18,11 @@
 # Candidate References
 - Kamran, R., Bhat, M. G., Jha, P., Moothedath, S., Hanawal, M., & Chaporkar, P. (2025). Energy-Aware 6G Network Design: A Survey. arXiv. https://arxiv.org/abs/2509.11289
 - Alhussien, N., & Gulliver, T. A. (2024). Toward AI‑enabled green 6G networks: A resource management perspective. IEEE Access, 12, 132972–132995. https://ieeexplore.ieee.org/document/10679787
+
 # Ownership Table 
 | Section | Description | Primary Authors | Supporting Authors |
 |--------|-------------|----------------|-------------------|
-| Abstract | 150-word summary of the research problem, key findings, and proposed idea | Aushna | Navrit |
+| Abstract | 150-word summary of the research problem, key findings, and proposed idea | Aushna, Ramneet | Navrit |
 | Introduction | Introduce the sustainability paradox in AI-driven wireless networks and explain why the issue matters for 6G infrastructure | Aushna | Anmol |
 | Background | Explain key concepts such as green networking, AI-driven network optimization, and energy consumption of large AI models | Navrit | Drishti |
 | Literature Review | Analyze and summarize research papers on AI energy consumption and green wireless networks | Anmol, Drishti | Navrit |
@@ -30,5 +31,5 @@
 | Conclusion | Summarize findings and highlight future research opportunities | Ramneet | Aushna |
 | References & Formatting | Maintain bibliography, citations, figures, and AAAI formatting | Navrit | Entire Team |
 
-# GitHub URL 
+# GitHub Repository URL 
 - https://github.com/aushnaxs/Team-2-wireless-project
