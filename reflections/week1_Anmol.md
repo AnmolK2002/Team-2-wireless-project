@@ -1,5 +1,5 @@
 1. Personal Contributions:
-This week I worked on parts of the Literature Review, Introduction, and the project proposal. I mainly helped expand some sections and fix the structure so everything flows better.
+This week I worked on parts of the Literature Review, Introduction, and the project proposal. It would be best to expand some sections and fix the structure so everything flows better.
 
 -Added more detail to the Literature Review, especially around AI energy consumption and green wireless networks (SHA: ab4e548)
 
