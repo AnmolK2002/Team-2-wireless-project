@@ -6,21 +6,17 @@
 ## Authors: Xavier Fernando, George Lăzăroiu
 ## Year: 2024
 
-## 1. Problem
+## 1. Summary
+The paper, therefore, discusses the ways in which IIoT systems in future green networks will be able to reduce the energy consumption in the network through the use of edge-based artificial intelligence. As noted in the paper, even as the network will be able to reduce the communication overhead, there will be increased costs in terms of the power consumption of the edge devices. Therefore, the importance of the balance between communication and computation power consumption is noted in the context of sustainable industrial wireless networks.
 
-Industrial wireless systems increase network load and energy demand.
+## 2. Relevance to Our Survey
 
-## 2. Approach
+This paper is considered relevant to our survey as it discusses the fact that local processing through AI can help in increasing the sustainability of the network while also incurring hidden energy costs. This paper can be considered for the discussion related to efficiency and energy in green AI-enabled wireless systems.
 
-The paper reviews edge AI and local processing under green 6G systems.
+## 3. Critical Comment
 
-## 3. Key Findings
+The fact that communication costs are reduced through edge intelligence in the paper doesn’t completely quantify the hardware energy costs that may be incurred in the long term.
 
-Local intelligence lowers communication load but adds edge hardware power cost.
+## 4. AI Disclosure
 
-## 4. Relevance to Our Topic
-
-It explains hidden energy trade-offs in industrial wireless AI.
-
-## 5. AI Disclosure
-NotebookLM assisted with extracting technical concepts; summary was written independently.
+NotebookLM was used to assist in the extraction of technical concepts.
