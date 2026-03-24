@@ -1,8 +1,8 @@
 # Paper Summary
 
 ## Paper Title: 6G Autonomous Radio Access Network Empowered by Artificial Intelligence and Network Digital Twin
-##Authors: Guanding Liu et al.
-##Year: 2025
+## Authors: Guanding Liu et al.
+## Year: 2025
 
 **Full Citation:** 6G Autonomous Radio Access Network Empowered by Artificial Intelligence and Network Digital Twin
 Liu, G., Deng, J., Zhu, Y., et al. (2025). 6G Autonomous Radio Access Network Empowered by Artificial Intelligence and Network Digital Twin. Frontiers of Information Technology & Electronic Engineering, 26, 161–213. https://doi.org/10.1631/FITEE.2400569
