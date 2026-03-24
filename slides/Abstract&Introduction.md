@@ -1,6 +1,12 @@
 Abstract
 
+- Ramneet Version of Abstract
+Artificial Intelligence (AI) is beginning to be a core component when designing wireless networks, including 5G system advancements and emerging 6G technology. It provides limitless features such as, optimized trafffic management and base station sleeping schedules. These upgrades ensure energy consumption is reduced and contributes to greener infrastruture (Alhussien & Gulliver, 2024; Ezzeddine et al., 2024). However, these upgrades do possess environmental concerns. Large amounts of computational power is needed for training and deploying large AI infrastructure. This leads to growing demand for electricity, high cooling demands, and an increasing carbon footprint. While AI does improve efficiency, it, however, produces a greater impact on the environment. This paper examines the trade-off through recent research on AI-driven network optimization and energy awareness of 6G design, highlighting the importance of being energy-conscious with AI strategies to achieve true sustainability of wireless networks.
+
+
 Artificial intelligence (AI) is increasingly integrated into modern wireless networks to improve efficiency, enable automation, and support advanced 6G services. By intelligently managing network operations—such as dynamically controlling sleep states for cell towers and optimizing traffic flow—AI can reduce operational energy consumption and contribute to greener network infrastructure (Alhussien & Gulliver, 2024; Ezzeddine et al., 2024). However, the training, deployment, and continuous operation of large AI models require substantial computational resources, leading to high electricity and water consumption in data centers and contributing to a significant carbon footprint (Strubell, Ganesh, & McCallum, 2019; Kamran et al., 2025). This duality creates a sustainability paradox: AI can simultaneously enable energy-efficient networks and increase the environmental burden of network infrastructure. This paper surveys recent literature on AI-driven green networks and energy-aware 6G design, analyzes the trade-offs between network optimization and environmental costs, and proposes directions for balancing AI performance with sustainability to support future environmentally responsible wireless systems.
+
+
 
 Introduction
 
