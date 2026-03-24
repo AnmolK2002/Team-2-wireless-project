@@ -2,7 +2,7 @@
 
 1. Personal Contribution
 
-This week, I was responsible for setting up the project infrastructure and submitting the initial proposal. I created the GitHub repository for the group project, configured access permissions, and added the instructor as a collaborator to ensure visibility and grading access. I also uploaded and finalized the first-week Project Proposal, making sure it aligned with the project requirements and clearly stated our topic, motivation, and scope (SHA: ). I also added the summary of my first reference papers (SHA: f45c2b00f654c34f4b7b209c9c96aa971db43f1b)
+This week, I created the GitHub repository for the group project, configured access permissions, and added the instructor as a collaborator to ensure visibility and grading access. I found one of the research articles for the suvey paper to support our project and added the reference in our project proposal (SHA: I also uploaded and finalized the first-week Project Proposal, making sure it aligned with the project requirements and clearly stated our topic, motivation, and scope. I also added the summary of my first reference papers (SHA: f45c2b00f654c34f4b7b209c9c96aa971db43f1b)
 
 2. Most Technically Challenging Thing Learned
 
