@@ -1,8 +1,8 @@
 ## Paper Summary: Energy and Policy Considerations for Modern Deep Learning Research
-Authors: Strubell, E., Ganesh, A., & McCallum, A.
-Year: 2020
+## Authors: Strubell, E., Ganesh, A., & McCallum, A.
+## Year: 2020
 
-##1. Summary (3-5 sentences in your own words)
+## 1. Summary (3-5 sentences in your own words)
 
 The paper discusses the environmental and financial implications associated with training large deep learning models such as BERT and GPT-2. The authors calculate the electricity consumed during training and additional data center cooling requirements. The results show that training modern AI models results in significant carbon emissions and requires extremely high financial investments, especially when multiple experiments are required for small accuracy improvements. The paper also emphasizes the significance of efficient hardware and research for the environmental impact of AI development.
 
