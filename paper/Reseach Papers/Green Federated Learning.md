@@ -16,5 +16,5 @@ Distributed AI systems reduce the load on the servers but result in high energy 
 ## 4. Relevance to Our Topic
 This strongly supports the energy-hungry AI side with real measured data.
 
-## AI Disclosure
+## 5. AI Disclosure
 AI tools were used for concept clarification; final writing is independently prepared.
