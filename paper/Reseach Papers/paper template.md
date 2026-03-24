@@ -5,8 +5,7 @@
 ## Paper Title: Green, Quantized Federated Learning Over Wireless Networks: An Energy-Efficient Design
 ## Authors: Minsu Kim, Walid Saad, Mehdi Bennis, Mérouane Debbah
 ## Year: 2024
-## Full Citation:
-Kim, M., Saad, W., Mozaffari, M., & Debbah, M. (2024). Green, Quantized Federated Learning Over Wireless Networks: An Energy-Efficient Design. IEEE Transactions on Wireless Communications, 23(2), 1386–1402.
+## Full Citation: Kim, M., Saad, W., Mozaffari, M., & Debbah, M. (2024). Green, Quantized Federated Learning Over Wireless Networks: An Energy-Efficient Design. IEEE Transactions on Wireless Communications, 23(2), 1386–1402.
 ## 1. Problem
 The paper focuses on the problem of high energy costs due to communication overhead in federated learning over wireless networks. The large model update sizes in federated learning result in significant communication overhead, hence high energy costs.
 
