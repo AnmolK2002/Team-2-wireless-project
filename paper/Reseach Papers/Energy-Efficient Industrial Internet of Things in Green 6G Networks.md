@@ -22,5 +22,5 @@ Local intelligence lowers communication load but adds edge hardware power cost.
 
 It explains hidden energy trade-offs in industrial wireless AI.
 
-## AI Disclosure
+## 5. AI Disclosure
 NotebookLM assisted with extracting technical concepts; summary was written independently.
