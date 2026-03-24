@@ -22,6 +22,6 @@ I learned how to analyze the energy efficiency of AI-based wireless networks fro
 - Utilized **ChatGPT** to assist in the **summary of complex research papers**.  
 - Utilized **Zotero** to organize sources and generate the report 
 - Utilized NotebookLM to summarize and understand the contents of the papers selected
--Utilized Research Rabbitto help find specifc paper according to the niche
+- Utilized Research Rabbitto help find specifc paper according to the niche
 
 
