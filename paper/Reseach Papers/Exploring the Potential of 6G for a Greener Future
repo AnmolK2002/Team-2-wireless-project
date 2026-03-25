@@ -1,0 +1,16 @@
+AUTHORS: Rohit Kumar, Saurav Kumar Gupta, Hwang-Cheng Wang, C. Shyamala Kumari, Sai Srinivas Vara Prasad Korlam
+Title: From Efficiency to Sustainability: Exploring the Potential of 6G for a Greener Future
+Journal/Year: 2023
+DOI: https://www.mdpi.com/2071-1050/15/23/16387
+
+Summary:
+This paper examines how 6G wireless networks can be both high-performing and environmentally sustainable. The authors explore strategies like energy-aware network design, dynamic power management, energy harvesting, and using eco-friendly materials in network infrastructure. They emphasize the integration of AI and machine learning for efficient resource allocation, reducing energy use and carbon footprint while maintaining high network performance. The paper also highlights the importance of digital inclusion and sustainable practices for equitable deployment of 6G. Overall, it provides a roadmap for building greener next-generation networks.
+
+Relation to Project:
+This article is relevant because it supports the “AI for green networks” side of the sustainability paradox, showing how AI and smart network designs can reduce environmental impact in next-generation networks.
+
+Critical Comment:
+While the paper focuses on sustainability, it does not quantify the environmental cost of training or running AI models, such as electricity usage and carbon emissions from data centers, which is a key part of the sustainability paradox.
+
+AI Disclosure:
+This summary was written by the author with minor assistance from AI tools to help organize ideas and improve clarity. All interpretations and critical comments are in the author’s own words.
