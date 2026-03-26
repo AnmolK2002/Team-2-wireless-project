@@ -1,9 +1,8 @@
 # Paper Summary 
-**Full Citation:**Yousefpour, A., Guo, S., Shenoy, A., et al. (2023). Green Federated Learning. arXiv preprint arXiv:2303.14604.
 ## Paper Title: Green Federated Learning
 ## Authors: Amir Yousefpour et al.
 ## Year: 2023
-
+**Full Citation:**Yousefpour, A., Guo, S., Shenoy, A., et al. (2023). Green Federated Learning. arXiv preprint arXiv:2303.14604.https://doi.org/10.1016/j.gecadv.2025.100029
 ## 1. Problem
 Even federated learning may result in a high total energy consumption across a wide range of devices.
 
