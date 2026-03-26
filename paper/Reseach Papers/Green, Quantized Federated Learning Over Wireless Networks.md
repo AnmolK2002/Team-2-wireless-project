@@ -2,7 +2,7 @@
 
 ## Paper Title: Green, Quantized Federated Learning Over Wireless Networks: An Energy-Efficient Design
 
-## Authors: Minsu Kim, Walid Saad, Mehdi Bennis, Mérouane Debbah
+## Authors: Kim, M., Saad, W., Bennis, M., & Debbah, M
 ## Year: 2024
 
 
