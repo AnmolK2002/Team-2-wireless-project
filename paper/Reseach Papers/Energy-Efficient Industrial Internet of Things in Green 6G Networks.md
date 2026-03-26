@@ -1,11 +1,9 @@
 # Paper Summary
 
-**Full Citation:** Fernando, X., & Lăzăroiu, G. (2024). Energy-Efficient Industrial Internet of Things in Green 6G Networks. Applied Sciences, 14(18), 8558.
-
 ## Paper Title: Energy-Efficient Industrial Internet of Things in Green 6G Networks
 ## Authors: Xavier Fernando, George Lăzăroiu
 ## Year: 2024
-
+**Full Citation:** Fernando, X., & Lăzăroiu, G. (2024). Energy-Efficient Industrial Internet of Things in Green 6G Networks. Applied Sciences, 14(18), 8558. https://doi.org/10.3390/app14188558
 ## 1. Summary
 The paper, therefore, discusses the ways in which IIoT systems in future green networks will be able to reduce the energy consumption in the network through the use of edge-based artificial intelligence. As noted in the paper, even as the network will be able to reduce the communication overhead, there will be increased costs in terms of the power consumption of the edge devices. Therefore, the importance of the balance between communication and computation power consumption is noted in the context of sustainable industrial wireless networks.
 
