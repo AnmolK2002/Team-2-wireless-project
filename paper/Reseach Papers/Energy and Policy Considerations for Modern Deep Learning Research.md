@@ -1,7 +1,9 @@
 ## Paper Summary
+
 ## Paper Title: : Energy and Policy Considerations for Modern Deep Learning Research
 ## Authors: Strubell, E., Ganesh, A., & McCallum, A.
 ## Year: 2020
+
 **Full Citation :** Strubell, E., Ganesh, A., & McCallum, A. (2020). Energy and Policy Considerations for Modern Deep Learning Research. Proceedings of the AAAI Conference on Artificial Intelligence, 34(09), 13693–13696. https://doi.org/10.1609/aaai.v34i09.7123
 ## 1. Summary (3-5 sentences in your own words)
 
