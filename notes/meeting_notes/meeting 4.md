@@ -15,4 +15,4 @@ Discussion:
 - Proposed idea and future direction is in progress.
 - Background in progress.
 - discussion is in progress
-- confirmed the presence of mebers in show case event 
+- confirmed the presence of members in show case event 
