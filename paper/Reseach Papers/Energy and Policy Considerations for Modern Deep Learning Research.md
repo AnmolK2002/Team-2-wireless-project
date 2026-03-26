@@ -1,4 +1,4 @@
-## Paper Summary
+# Paper Summary
 
 ## Paper Title: : Energy and Policy Considerations for Modern Deep Learning Research
 ## Authors: Strubell, E., Ganesh, A., & McCallum, A.
