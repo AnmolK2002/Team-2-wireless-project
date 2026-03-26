@@ -26,6 +26,6 @@ They calculated energy usage and CO2 emissions for training and inference.
 - Choosing datacenter locations with low-carbon energy makes a big difference.
 
 ## 4. Relevance to Our Topic
-This paper shows that AI doesn’t have to be bad for the environment if we follow best practices. It’s important for any research on AI sustainability, energy efficiency, or green tech. It also highlights practical strategies—like model choice, hardware, and location—that we can apply in our work.
+This paper shows that AI doesn’t have to be bad for the environment if we follow best practices. It’s important for any research on AI sustainability, energy efficiency, or green tech. It also highlights practical strategies like model choice, hardware, and location that we can apply in our work.
 
 ## 5. AI Disclosure: Parts of this summary were drafted with the assistance of an AI language model (ChatGPT). The content has been reviewed and edited for accuracy, clarity, and a human writing style by the student.
