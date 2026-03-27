@@ -7,23 +7,3 @@ Similarly, Cui et al. (2025) emphasize that AI is expected to become a core comp
 Edge-based and decentralized approaches also support this trend. Fernando and Lăzăroiu (2024) show that using AI at the edge in Industrial Internet of Things (IIoT) systems can reduce communication energy costs by processing data locally instead of sending everything to centralized servers. In the same direction, Yousefpour et al. (2023) propose Green Federated Learning, where AI models are trained across distributed devices without centralizing data, reducing communication overhead and improving system efficiency.
 Overall, these studies suggest a clear trend: AI is being positioned as a key enabler of greener and more efficient wireless networks, especially through smarter resource management and decentralized computing.
 
-## The Environmental Cost of AI Systems
-
-However, another major theme in the literature highlights that AI systems themselves require large amounts of energy. Strubell, Ganesh, and McCallum (2020) show that training large deep learning models such as BERT and GPT-2 consumes significant electricity and requires cooling infrastructure and computing resources. They also point out that repeated experimentation and tuning can greatly increase the total carbon footprint, even for small performance improvements.
-Strubell et al. (2022) further expand on this issue by showing that although improvements in hardware and model efficiency have reduced the cost of individual models, the overall growth in the number and size of AI systems continues to increase total energy consumption. Factors such as data center efficiency, hardware type, and location also play a major role in the final environmental impact.
-This means that the environmental cost of AI is not only about training a single model, but about the entire ecosystem, including infrastructure, repeated training cycles, and large-scale deployment.
-
-## Trade-Offs Between Efficiency and Computation
-
-A key idea that appears across the literature is that AI does not simply reduce energy consumption,it redistributes it. Lanlan Li (2024) explains that while AI improves energy efficiency in wireless networks, it also increases energy demand through computation-heavy tasks such as training, inference, and data processing in data centers.
-This trade-off is also visible in edge computing systems. Fernando and Lăzăroiu (2024) note that although edge AI reduces communication energy costs, it increases energy usage at local devices, which may not always be designed for continuous AI processing. Similarly, federated learning reduces data transfer but introduces additional communication and synchronization overhead between devices.
-As a result, energy savings in one part of the system can lead to increased energy consumption in another, making the overall impact more complex than it first appears.
-
-## Key Trends and Research Gaps
-
-Across the literature, three main trends can be identified. First, AI is increasingly being used to optimize wireless networks through adaptive and intelligent decision-making. Second, there is a shift toward decentralized approaches such as edge computing and federated learning to reduce communication costs. Third, there is growing awareness that AI systems themselves have a significant environmental footprint.
-However, there are still important gaps in the research. Most studies focus either on the benefits of AI for network efficiency or on the energy cost of AI itself, but rarely combine both perspectives in a single evaluation. This makes it difficult to understand the true net environmental impact of AI in wireless systems.
-Another gap is the lack of standardized methods for measuring the full lifecycle energy consumption of AI in telecom networks. Many studies measure either training cost or network efficiency separately, rather than evaluating the entire system from end to end.
-
-Overall, the literature clearly shows that AI plays a dual role in wireless communication systems. On one hand, it improves energy efficiency through smarter network optimization, reduced communication overhead, and adaptive decision-making. On the other hand, it introduces significant computational and infrastructural energy demands.
-This creates a sustainability paradox: AI is both a solution for building greener wireless networks and a contributor to increased energy consumption. Future research needs to move beyond studying these aspects separately and instead focus on holistic evaluations that consider the full lifecycle impact of AI in 6G systems.
