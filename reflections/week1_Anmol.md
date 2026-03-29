@@ -1,13 +1,7 @@
 1. Personal Contributions:
 This week I worked on parts of the Literature Review, Introduction, and the project proposal. It would be best to expand some sections and fix the structure so everything flows better.
 
--Added more detail to the Literature Review, especially around AI energy consumption and green wireless networks (SHA: ab4e548)
-
--Updated parts of the proposal to better connect AI sustainability with 6G (SHA: e15a232)
-
--Made some general updates to the repo like organizing files and formatting (SHA: 3dcde63)
-
--Added a bit more explanation on how AI impacts energy efficiency in 6G (SHA: 1d5e232)
+This reflection aligns with changes made in commit 1483d77 (Update project proposal on AI and green 6G networks), which introduced the initial framework for AI-driven sustainability and 6G design.
 
 2. Most technically challenging thing I learned:
 The hardest part for me this week was figuring out how to structure the Literature Review and Introduction properly. Since our report isn’t fully done yet, it was kind of confusing trying to connect AI, energy efficiency, and 6G in a clear way. Also, summarizing research papers without just repeating them took some effort.
