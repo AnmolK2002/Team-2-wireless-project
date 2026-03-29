@@ -15,7 +15,7 @@ Relevant commits:
 The most challenging thing I learned this week was understanding the trade-offs between AI performance and energy consumption. While more advanced AI models can improve network efficiency, they also require more computation, which increases energy use and carbon emissions. It was challenging to fully understand this balance, but reviewing research papers helped me get a clearer idea.
 
 ## 3. What did you review or provide feedback on for a teammate?
-
+I reviewed a teammate’s section on AI in 6G communication. I gave feedback on making the explanations clearer and more concise. I also suggested improving the structure so that the ideas connect better, especially between technical concepts and their environmental impact.
 
 ## 4. (AI Disclosure) Which AI tools did you use, and for exactly what purpose?
 I used ChatGPT to help rephrase some sentences and better understand a few technical concepts related to AI and sustainability. I also used it to help organize my reflection. All the final content was written and reviewed by me.
