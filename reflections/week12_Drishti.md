@@ -13,6 +13,7 @@ Overall, this week helped me better understand how selecting strong research sou
 
 
 Commits:
+
 Research Paper: Update references.bib (e7a4697)
 
 Research Paper: Update references.bib (fa28e79)
