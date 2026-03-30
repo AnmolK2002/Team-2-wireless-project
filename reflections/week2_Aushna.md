@@ -1,7 +1,11 @@
 Week 12 Reflection
 1. What did you personally contribute to the paper this week?
 
-This week, I contributed significantly to both the research and writing components of the project. I researched four additional academic articles related to sustainable and energy-efficient telecom networks and wrote individual summaries for each of these papers, highlighting their key methods, findings, and relevance to our topic. I also drafted the Abstract and Introduction, establishing the motivation, research scope, and importance of sustainability in modern wireless networks. 
+This week, I contributed significantly to both the research and writing components of the project. I researched four additional academic articles related to sustainable and energy-efficient telecom networks and wrote individual summaries for each of these papers, highlighting their key methods, findings, and relevance to our topic (SHA: 51d4182fe29bb0f5e9993ab9d347c82d3f47d915
+5e5846b1fa4236ed70b8204e1ecfc0713c78e82f
+fde3f14364b7362ae99a7a1b6c096d0c404c4af3
+dcff9f0c9dc2a564536822dbf95e1f06e9a5029e)
+. I also drafted the Abstract and Introduction, establishing the motivation, research scope, and importance of sustainability in modern wireless networks (SHA: 80f5d038b873b371b235eaa5076230e631af2263). 
 
 2. What was the most technically challenging thing you learned?
 
