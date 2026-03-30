@@ -10,13 +10,21 @@ I worked on research paper summaries on sustainable AI and green communication s
 I updated the paper "Energy-Efficient Industrial Internet of Things in Green 6G Networks" to better connect it to our topic of AI sustainability.
 I also revised Green Federated Learning to strengthen the explanation of energy-efficient machine learning approaches.
 Overall, this week helped me better understand how selecting strong research sources and organizing references improves the quality of technical writing and supports group research effectively.
+
+
 Commits:
 Research Paper: Update references.bib (e7a4697)
+
 Research Paper: Update references.bib (fa28e79)
+
 Research Paper: Update references.bib (4b211b4)
+
 Research Paper: Update references.bib (18a58da)
+
 Research Paper: Update Energy-Efficient Industrial Internet of Things in Green 6G Networks.md (fb97892)
+
 Research Paper: Update Green Federated Learning.md (b6ce084)
+
 Research Paper: Update Green Federated Learning.md (fc04403)
 
 
