@@ -1,2 +1,2 @@
 “AI driven network optimization refers to the use of Artificial Intelligence and machine learning to algorithms to efficiently improve performance of communication networks.
-AI systems can analysis real time data and make decisions based on network conditions, instead of following procedural standards.” (AI Optimization, n.d.).  
+AI systems can analysis real time data and make decisions based on network conditions, instead of following procedural standards.” (AI Optimization, n.d.). This is important in networking for 5G and upcoming 6G, where the complexity of traffic patterns will too complex with the standard of networking protocols. Which may cause these standard procedures to be ineffective.  
