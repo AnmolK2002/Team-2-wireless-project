@@ -3,3 +3,8 @@ AI systems can analysis real time data and make decisions based on network condi
 
 
 Artificial Intelligence has several factors for energy consumption. The first factor is the two phases of AI computation are training and inference. Training is an intensive process in which the model learns accurate patterns by processing examples repeatedly and adjusting its parameters through trial and error. Inference follows training, allowing the AI model to generate outputs from new inputs and interact with users. (Patterson et al, 2022). 
+
+The second is hardware and infrastructure components, total energy used in these phases are calculated by processors and datacenters overhead.  “The energy consumption of the servers performing a training task is proportional to the number of processors used and the duration of the training run, which includes local memory, network links and more.” The datacentre overhead energy requires cooling equipment and voltage transformation and losses. (Patterson et al, 2022).
+The final formula for energy consumption:
+MWh = (Hourstotrain x NumberofProcessors X AveragePowerper Processor) X PUE
+
